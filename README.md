@@ -5,5 +5,5 @@ You can use the shell scripts i've made or just compile it manually.
 
 Example: 
 
-$ gcc -lncurses -o run main.c 
+$ gcc -lncurses -o run main.c <br />
 $ ./run
